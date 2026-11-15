@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Samarth-Bagalkoti/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Samarth-Bagalkoti/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Samarth-Bagalkoti/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Samarth-Bagalkoti/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Samarth-Bagalkoti/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Samarth-Bagalkoti/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Manacher
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Samarth-Bagalkoti/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samarth-Bagalkoti/Leetcode/tree/master/0009-palindrome-number) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Samarth-Bagalkoti/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
