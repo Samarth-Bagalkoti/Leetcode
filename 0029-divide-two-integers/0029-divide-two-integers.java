@@ -8,7 +8,6 @@ class Solution {
         long b = Math.abs((long) divisor);
 
         int sign = (dividend < 0) ^ (divisor < 0) ? -1 : 1;
-
         long result = 0;
 
         while (a >= b) {
